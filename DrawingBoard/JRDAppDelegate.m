@@ -7,12 +7,17 @@
 //
 
 #import "JRDAppDelegate.h"
+#import "JRDMainWindowController.h"
+
+@interface JRDAppDelegate ()
+    @property (strong, nonatomic) JRDMainWindowController *mainWindowController;
+@end
 
 @implementation JRDAppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // Insert code here to initialize your application
+    self.mainWindowController = [JRDMainWindowController new];
+    [self.mainWindowController showWindow:self];
 }
-
 @end

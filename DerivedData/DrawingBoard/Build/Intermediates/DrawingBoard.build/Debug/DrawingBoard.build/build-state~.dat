@@ -1,0 +1,879 @@
+TDrawingBoard
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch DrawingBoard/DrawingBoard-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard normal x86_64
+cCpResource DrawingBoard/golden-ratio.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png
+cCpResource DrawingBoard/texture.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png
+cCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib
+cCpResource DrawingBoard/lined.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png
+cCpResource DrawingBoard/red-35775_640.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png
+cCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib
+cCpResource DrawingBoard/red50.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png
+cCpResource DrawingBoard/grid.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png
+cCopyStringsFile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/InfoPlist.strings DrawingBoard/en.lproj/InfoPlist.strings
+cCpResource DrawingBoard/darkred.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png
+cCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib
+cCpResource DrawingBoard/shapes.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png
+cCpResource DrawingBoard/en.lproj/Credits.rtf DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf
+cCpResource DrawingBoard/line_graph_chart_graphic.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png
+cCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib
+cCpResource DrawingBoard/greenOutline.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png
+cCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib
+cCpResource DrawingBoard/transparent-green.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png
+cCompileAssetCatalog /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Images.xcassets
+cProcessInfoPlistFile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist
+cTouch /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000534C5A5E00000000000000AA
+t1397512798
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005281555A000000000000044C
+t1384207706
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F572100000000000001DE
+t1394562849
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005281555B000000000000253C
+t1384207707
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F57220000000000000ADC
+t1394562850
+s2780
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/DrawingBoard.LinkFileList
+c0000000053F703BA00000000000006A4
+t1408697274
+s1700
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o
+t1408697276
+s33660
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o
+t1408697276
+s33888
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o
+t1408697276
+s24788
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o
+t1408697276
+s39612
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o
+t1408697276
+s8780
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o
+t1408697277
+s63500
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o
+t1408697276
+s18308
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o
+t1408697276
+s37600
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o
+t1408697276
+s18324
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o
+t1408697276
+s3384
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_dependencies.txt
+t1408697278
+s309
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_generated_info.plist
+t1408697278
+s181
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch
+t1408697276
+s117724
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app
+t1408697274
+s102
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist
+t1408697278
+s1433
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard
+t1408697277
+s78516
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/PkgInfo
+t1408697278
+s8
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1408697278
+s35960
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDGraphViewController.nib
+t1408697278
+s3635
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDMainWindowController.nib
+t1408697278
+s5273
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDRatioViewController.nib
+t1408697277
+s2202
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDShapesViewController.nib
+t1408697278
+s1963
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png
+t1408697277
+s1030
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf
+t1408697277
+s436
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1408697277
+s92
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png
+t1408697277
+s4433
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png
+t1408697277
+s1031
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png
+t1408697277
+s48097
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png
+t1408697277
+s19912
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png
+t1408697277
+s15969
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png
+t1408697277
+s31752
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png
+t1408697277
+s1063
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png
+t1408697277
+s28934
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png
+t1408697277
+s205940
+
+N/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png
+t1408697277
+s1063
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib
+c0000000053F4277D000000000000BE0E
+t1408509821
+s48654
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist
+c0000000053F426090000000000000453
+t1408509449
+s1107
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Prefix.pch
+c0000000053F4260900000000000000AC
+t1408509449
+s172
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Images.xcassets
+c0000000053F426090000000000000066
+t1408509449
+s102
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m
+c0000000053F68A270000000000000227
+t1408666151
+s551
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m
+c0000000053F701D00000000000000728
+t1408696784
+s1832
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m
+c0000000053F701D00000000000000327
+t1408696784
+s807
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib
+c0000000053F6FF560000000000000EF3
+t1408696150
+s3827
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m
+c0000000053F7032100000000000007F8
+t1408697121
+s2040
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib
+c0000000053F7011F0000000000001139
+t1408696607
+s4409
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m
+c0000000053F6F48C0000000000000266
+t1408693388
+s614
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m
+c0000000053F7022C0000000000001AC3
+t1408696876
+s6851
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m
+c0000000053F6451C00000000000001C2
+t1408648476
+s450
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib
+c0000000053F693270000000000000B2A
+t1408668455
+s2858
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m
+c0000000053F701420000000000000D62
+t1408696642
+s3426
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m
+c0000000053F6415300000000000001C6
+t1408647507
+s454
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib
+c0000000053F69327000000000000083B
+t1408668455
+s2107
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/darkred.png
+c0000000053F6DA510000000000000406
+t1408686673
+s1030
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/en.lproj/Credits.rtf
+c0000000053F4260900000000000001B4
+t1408509449
+s436
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/en.lproj/InfoPlist.strings
+c0000000053F42609000000000000002D
+t1408509449
+s45
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/golden-ratio.png
+c0000000053F4308E0000000000001151
+t1408512142
+s4433
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/greenOutline.png
+c0000000053F6FF100000000000000407
+t1408696080
+s1031
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/grid.png
+c00000000504F9628000000000000BBE1
+t1347393064
+s48097
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/line_graph_chart_graphic.png
+c0000000053F42DC10000000000004DC8
+t1408511425
+s19912
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/lined.png
+c00000000500976B80000000000003E61
+t1342797496
+s15969
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m
+c0000000053F4260900000000000000F9
+t1408509449
+s249
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/red-35775_640.png
+c0000000053F42A940000000000007C08
+t1408510612
+s31752
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/red50.png
+c0000000053F6D9FD0000000000000427
+t1408686589
+s1063
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/shapes.png
+c0000000053418DFF0000000000007106
+t1396805119
+s28934
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/texture.png
+c00000000500976FE0000000000032474
+t1342797566
+s205940
+
+N/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/transparent-green.png
+c0000000053F6BA390000000000000427
+t1408678457
+s1063
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m
+r0
+
+CBuild AST from /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0e49013a3ba7b941^c7d9143a3ba7b941^---0#1#1#--18"Check dependencies36"F82A13EF-2680-4AE3-8145-8F181E619C6F-
+
+CCompileAssetCatalog /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Images.xcassets
+s430390077.308011
+e430390078.847819
+r1
+xCompileAssetCatalog
+x/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/Assets.car
+o/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CompileAssetCatalog DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources DrawingBoard/Images.xcassets130"CompileAssetCatalog DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources DrawingBoard/Images.xcassets2deb4e3d3ba7b941^850bd93e3ba7b941^-338"/* com.apple.actool.compilation-results *//Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/Assets.car/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@75"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Images.xcassets/0000000000000000^958"CompileAssetCatalog DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources DrawingBoard/Images.xcassets    cd /Users/jordan/_class/Week5/HW5_jordand    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Images.xcassets36"925CF86A-4D45-4369-A04E-C1FA0D11B711-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.630621
+e430390076.902688
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.h
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m236"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o DrawingBoard/JRDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9c89a13c3ba7b941^2c63e73c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m0000000000000000^3683"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o DrawingBoard/JRDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDAppDelegate.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o36"702600DF-323C-4366-BAA0-743E8F674731-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.632324
+e430390076.936832
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m232"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o DrawingBoard/JRDGraphView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere4f4a13c3ba7b941^30d6ef3c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m0000000000000000^3671"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o DrawingBoard/JRDGraphView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o36"0AC7853B-C3D8-44BF-B7D2-80F825F49A49-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.904817
+e430390076.983578
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.h
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphView.h
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m252"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o DrawingBoard/JRDGraphViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6bfe73c3ba7b941^4bccfb3c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m0000000000000000^3731"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o DrawingBoard/JRDGraphViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o36"2C783028-15D1-4359-843D-C51AAB096D9D-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.629336
+e430390076.904511
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.h
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.h
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.h
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m254"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o DrawingBoard/JRDMainWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb22fa13c3ba7b941^378be73c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m0000000000000000^3737"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o DrawingBoard/JRDMainWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o36"20D22583-B026-4F15-B138-471BFE2F8A08-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.629806
+e430390076.906033
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m258"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o DrawingBoard/JRDRandomPercentGenerator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilercc63a13c3ba7b941^59fbe73c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m0000000000000000^3749"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o DrawingBoard/JRDRandomPercentGenerator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRandomPercentGenerator.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o36"15A5629E-13BB-44F6-A19B-51914F316E29-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.901766
+e430390077.009710
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m232"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o DrawingBoard/JRDRatioView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdbf9e63c3ba7b941^f27c023d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m0000000000000000^3671"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o DrawingBoard/JRDRatioView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioView.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o36"25C22E26-625A-4B64-A989-CD57AB649AE0-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.630070
+e430390076.903240
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m252"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o DrawingBoard/JRDRatioViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler696ea13c3ba7b941^cf68e73c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m0000000000000000^3731"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o DrawingBoard/JRDRatioViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o36"6CE454E7-984B-4645-95F2-11B7092F76C5-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.629524
+e430390076.928572
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m234"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o DrawingBoard/JRDShapesView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2638a13c3ba7b941^bfb7ed3c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m0000000000000000^3677"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o DrawingBoard/JRDShapesView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesView.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o36"1D7FDA77-AABA-4A92-A814-BA4ED0D9B68E-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.631276
+e430390076.902389
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m254"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o DrawingBoard/JRDShapesViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbabca13c3ba7b941^d45fe73c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m0000000000000000^3737"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o DrawingBoard/JRDShapesViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o36"8E71B831-E723-4C44-AA96-E1C028E0A6AE-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390076.629017
+e430390076.901440
+r1
+xCompileC
+xDerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m216"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o DrawingBoard/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler931ba13c3ba7b941^1d1de73c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m0000000000000000^3623"CompileC DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o DrawingBoard/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -include /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.dia -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/main.m -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o36"144AEF48-2563-4B97-A4AD-8DBC5C19D263-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib
+s430390077.298368
+e430390078.595909
+r1
+xCompileXIB
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compiling /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib47"CompileXIB DrawingBoard/Base.lproj/MainMenu.xib7efd4c3d3ba7b941^658f983e3ba7b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib0000000000000000^576"CompileXIB DrawingBoard/Base.lproj/MainMenu.xib    cd /Users/jordan/_class/Week5/HW5_jordand    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/Base.lproj/MainMenu.xib36"1AADD385-EAFC-4F30-99D0-1413DCEE614A-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib
+s430390077.286569
+e430390078.527455
+r1
+xCompileXIB
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib50"CompileXIB DrawingBoard/JRDGraphViewController.xibbd184a3d3ba7b941^7409873e3ba7b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib0000000000000000^585"CompileXIB DrawingBoard/JRDGraphViewController.xib    cd /Users/jordan/_class/Week5/HW5_jordand    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDGraphViewController.nib /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDGraphViewController.xib36"D07B915C-139B-4A75-A29D-A31B1D579FF0-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib
+s430390077.291958
+e430390078.501198
+r1
+xCompileXIB
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib51"CompileXIB DrawingBoard/JRDMainWindowController.xib12f54a3d3ba7b941^4451803e3ba7b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib0000000000000000^588"CompileXIB DrawingBoard/JRDMainWindowController.xib    cd /Users/jordan/_class/Week5/HW5_jordand    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDMainWindowController.nib /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDMainWindowController.xib36"82F3E62F-84FF-4818-8A55-1A94A1E858CA-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib
+s430390077.283861
+e430390077.342702
+r1
+xCompileXIB
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib50"CompileXIB DrawingBoard/JRDRatioViewController.xib80d2483d3ba7b941^8dd0573d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib0000000000000000^585"CompileXIB DrawingBoard/JRDRatioViewController.xib    cd /Users/jordan/_class/Week5/HW5_jordand    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDRatioViewController.nib /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDRatioViewController.xib36"EF54BAC6-1385-48AE-8809-321B17330991-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCompileXIB /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib
+s430390077.302018
+e430390078.496111
+r1
+xCompileXIB
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib51"CompileXIB DrawingBoard/JRDShapesViewController.xibb1a74d3d3ba7b941^53057f3e3ba7b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib0000000000000000^588"CompileXIB DrawingBoard/JRDShapesViewController.xib    cd /Users/jordan/_class/Week5/HW5_jordand    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/JRDShapesViewController.nib /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/JRDShapesViewController.xib36"5CBAD31A-5A30-45A8-9D4C-80790CCB19BD-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCopyStringsFile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/InfoPlist.strings DrawingBoard/en.lproj/InfoPlist.strings
+s430390077.289783
+e430390077.330483
+r1
+xCopyStringsFile
+x/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/InfoPlist.strings
+xDrawingBoard/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy DrawingBoard/en.lproj/InfoPlist.strings164"CopyStringsFile DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/InfoPlist.strings DrawingBoard/en.lproj/InfoPlist.stringsde3b4a3d3ba7b941^1366563d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/en.lproj/InfoPlist.strings0000000000000000^474"CopyStringsFile DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/InfoPlist.strings DrawingBoard/en.lproj/InfoPlist.strings    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj -- DrawingBoard/en.lproj/InfoPlist.strings36"BDA0849F-9C4A-4938-A97B-A19BE4EFA706-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/darkred.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png
+s430390077.291932
+e430390077.338164
+r1
+xCpResource
+xDrawingBoard/darkred.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png129"CpResource DrawingBoard/darkred.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png43e14f3d3ba7b941^77bf563d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png00345449deffdf42^473"CpResource DrawingBoard/darkred.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/darkred.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/darkred.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"EDE65CA5-C6B3-4C63-8A14-404091395BD4-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/en.lproj/Credits.rtf DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf
+s430390077.295546
+e430390077.296966
+r1
+xCpResource
+xDrawingBoard/en.lproj/Credits.rtf
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf147"CpResource DrawingBoard/en.lproj/Credits.rtf DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtfccb64b3d3ba7b941^033e4f3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf00345449deffdf42^509"CpResource DrawingBoard/en.lproj/Credits.rtf DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/en.lproj/Credits.rtf /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/en.lproj36"224DC30F-2B68-417D-8226-B9B188EF83F9-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/golden-ratio.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png
+s430390077.283226
+e430390077.284785
+r1
+xCpResource
+xDrawingBoard/golden-ratio.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png139"CpResource DrawingBoard/golden-ratio.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png6892483d3ba7b941^34f7483d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png00345449deffdf42^488"CpResource DrawingBoard/golden-ratio.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/golden-ratio.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/golden-ratio.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"A972BCF9-C886-4C8B-960F-085AAB209884-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/greenOutline.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png
+s430390077.299629
+e430390077.302542
+r1
+xCpResource
+xDrawingBoard/greenOutline.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png139"CpResource DrawingBoard/greenOutline.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png94c24c3d3ba7b941^bb804f3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png00345449deffdf42^488"CpResource DrawingBoard/greenOutline.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/greenOutline.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/greenOutline.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"E702F27E-9D51-4AB6-8471-22E4C41AB279-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/grid.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png
+s430390077.289360
+e430390077.293963
+r1
+xCpResource
+xDrawingBoard/grid.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png123"CpResource DrawingBoard/grid.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.pngff204a3d3ba7b941^da394d3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png00345449deffdf42^464"CpResource DrawingBoard/grid.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/grid.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/grid.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"B6EBEBBD-A98D-4C05-A696-57A9ABA51DEC-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/line_graph_chart_graphic.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png
+s430390077.296884
+e430390077.298596
+r1
+xCpResource
+xDrawingBoard/line_graph_chart_graphic.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png163"CpResource DrawingBoard/line_graph_chart_graphic.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png060e4c3d3ba7b941^fd694f3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@156"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png00345449deffdf42^524"CpResource DrawingBoard/line_graph_chart_graphic.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/line_graph_chart_graphic.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/line_graph_chart_graphic.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"F18C7C11-847E-4947-B399-3CB0F12CC689-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/lined.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png
+s430390077.283891
+e430390077.286204
+r1
+xCpResource
+xDrawingBoard/lined.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png125"CpResource DrawingBoard/lined.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.pngd0b8483d3ba7b941^ce4f493d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png00345449deffdf42^467"CpResource DrawingBoard/lined.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/lined.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/lined.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"BA06C5C2-837C-493E-9E7E-ADF79894C23C-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/red-35775_640.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png
+s430390077.286188
+e430390077.292195
+r1
+xCpResource
+xDrawingBoard/red-35775_640.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png141"CpResource DrawingBoard/red-35775_640.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png2fa6493d3ba7b941^aef04a3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png00345449deffdf42^491"CpResource DrawingBoard/red-35775_640.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red-35775_640.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/red-35775_640.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"83053C32-9A4D-48AD-8288-744B5C350269-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/red50.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png
+s430390077.288596
+e430390077.292198
+r1
+xCpResource
+xDrawingBoard/red50.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png125"CpResource DrawingBoard/red50.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.pngfeee493d3ba7b941^7ae34c3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png00345449deffdf42^467"CpResource DrawingBoard/red50.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/red50.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/red50.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"420EDEDA-6C45-4812-96B2-3D6BC920F58C-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/shapes.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png
+s430390077.292380
+e430390077.294793
+r1
+xCpResource
+xDrawingBoard/shapes.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png127"CpResource DrawingBoard/shapes.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png51154b3d3ba7b941^6a894d3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png00345449deffdf42^470"CpResource DrawingBoard/shapes.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/shapes.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/shapes.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"8F76B1D4-B1AA-4914-9183-977B031E3F5D-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/texture.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png
+s430390077.283433
+e430390077.287499
+r1
+xCpResource
+xDrawingBoard/texture.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png129"CpResource DrawingBoard/texture.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png74b2483d3ba7b941^8d5e493d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png00345449deffdf42^473"CpResource DrawingBoard/texture.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/texture.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/texture.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"E7DAF1CC-CF75-4E35-8817-A8961C4670CB-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CCpResource DrawingBoard/transparent-green.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png
+s430390077.305490
+e430390077.306815
+r1
+xCpResource
+xDrawingBoard/transparent-green.png
+xDerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png149"CpResource DrawingBoard/transparent-green.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png57434e3d3ba7b941^32ab4f3d3ba7b941^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png00345449deffdf42^503"CpResource DrawingBoard/transparent-green.png DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources/transparent-green.png    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/transparent-green.png /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Resources36"69CB352C-52BA-4E94-B815-2D044701C617-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CLd /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard normal x86_64
+s430390077.010612
+e430390077.282072
+r1
+xLd
+x/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard
+xnormal
+xx86_64
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/DrawingBoard.LinkFileList
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/main.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDMainWindowController.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesView.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRandomPercentGenerator.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioViewController.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDAppDelegate.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDShapesViewController.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphView.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDRatioView.o
+d/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/JRDGraphViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard107"Ld DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard normal x86_6411c3023d3ba7b941^b134483d3ba7b941^---0#0#1#--1199"Ld DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard normal x86_64    cd /Users/jordan/_class/Week5/HW5_jordand    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug -filelist /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/DrawingBoard.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/Objects-normal/x86_64/DrawingBoard_dependency_info.dat -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/MacOS/DrawingBoard36"8764178F-95B1-4E81-B405-E8FAB3B5F6B6-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CProcessInfoPlistFile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist
+s430390078.848316
+e430390078.849695
+r1
+xProcessInfoPlistFile
+x/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist
+x/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist140"ProcessInfoPlistFile DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist DrawingBoard/DrawingBoard-Info.plist4435d93e3ba7b941^1286d93e3ba7b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist0000000000000000^771"ProcessInfoPlistFile DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist DrawingBoard/DrawingBoard-Info.plist    cd /Users/jordan/_class/Week5/HW5_jordand    builtin-infoPlistUtility /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Info.plist -genpkginfo /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/assetcatalog_generated_info.plist -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app/Contents/Info.plist36"26E7B2D7-BE12-467B-9884-B6A93FB4C7AE-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CProcessPCH /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch DrawingBoard/DrawingBoard-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430390074.074971
+e430390076.628414
+r1
+xProcessPCH
+x/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch
+xDrawingBoard/DrawingBoard-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile DrawingBoard/DrawingBoard-Prefix.pch258"ProcessPCH DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch DrawingBoard/DrawingBoard-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler124e133a3ba7b941^3be2a03c3ba7b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Prefix.pch0000000000000000^3569"ProcessPCH DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch DrawingBoard/DrawingBoard-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jordan/_class/Week5/HW5_jordand    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jordan/_class/Week5/HW5_jordand/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-generated-files.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-own-target-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-all-target-headers.hmap -iquote /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DrawingBoard-project-headers.hmap -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources/x86_64 -I/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/DrawingBoard.build/Debug/DrawingBoard.build/DerivedSources -F/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug --serialize-diagnostics /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.d -c /Users/jordan/_class/Week5/HW5_jordand/DrawingBoard/DrawingBoard-Prefix.pch -o /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Intermediates/PrecompiledHeaders/DrawingBoard-Prefix-ebuqqearzjvyendnusqlaileyqjs/DrawingBoard-Prefix.pch.pch36"67978B95-4736-4C7B-8DCA-CE471DE8273B-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+
+CProcessPCH /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Index/PrecompiledHeaders/DrawingBoard-Prefix-avqoxofwxojpbqfacfgblhhlbssv_ast/DrawingBoard-Prefix.pch.pch DrawingBoard/DrawingBoard-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app
+s430390078.850667
+e430390078.855539
+r1
+xTouch
+x/Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app68"Touch DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app53ccd93e3ba7b941^7505db3e3ba7b941^---0#0#1#--239"Touch DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app    cd /Users/jordan/_class/Week5/HW5_jordand    /usr/bin/touch -c /Users/jordan/_class/Week5/HW5_jordand/DerivedData/DrawingBoard/Build/Products/Debug/DrawingBoard.app36"DD1731D2-88F5-417B-BE8F-E14D9C202F2A-
+bFC97E9E9-C4BA-4153-A06C-E98F225A07DD
+

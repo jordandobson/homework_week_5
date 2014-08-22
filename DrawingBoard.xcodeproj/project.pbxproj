@@ -18,6 +18,29 @@
 		1716372E19A45D890070834F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1716370D19A45D890070834F /* Cocoa.framework */; };
 		1716373619A45D890070834F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1716373419A45D890070834F /* InfoPlist.strings */; };
 		1716373819A45D890070834F /* DrawingBoardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716373719A45D890070834F /* DrawingBoardTests.m */; };
+		1716374419A45DF50070834F /* JRDMainWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716374219A45DF50070834F /* JRDMainWindowController.m */; };
+		1716374519A45DF50070834F /* JRDMainWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1716374319A45DF50070834F /* JRDMainWindowController.xib */; };
+		1716374919A4621E0070834F /* red-35775_640.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716374819A4621E0070834F /* red-35775_640.png */; };
+		1716374B19A465500070834F /* line_graph_chart_graphic.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716374A19A465500070834F /* line_graph_chart_graphic.png */; };
+		1716374D19A4683A0070834F /* golden-ratio.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716374C19A4683A0070834F /* golden-ratio.png */; };
+		1716375119A678AD0070834F /* JRDShapesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716374F19A678AD0070834F /* JRDShapesViewController.m */; };
+		1716375219A678AD0070834F /* JRDShapesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1716375019A678AD0070834F /* JRDShapesViewController.xib */; };
+		1716375619A67A640070834F /* JRDShapesView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716375519A67A640070834F /* JRDShapesView.m */; };
+		1716375B19A67C2A0070834F /* JRDRatioViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716375919A67C2A0070834F /* JRDRatioViewController.m */; };
+		1716375C19A67C2A0070834F /* JRDRatioViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1716375A19A67C2A0070834F /* JRDRatioViewController.xib */; };
+		1716375F19A67C540070834F /* JRDRatioView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716375E19A67C540070834F /* JRDRatioView.m */; };
+		1716376219A6B7D20070834F /* JRDGraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716376119A6B7D20070834F /* JRDGraphView.m */; };
+		1716376619A6B7FF0070834F /* JRDGraphViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716376419A6B7FF0070834F /* JRDGraphViewController.m */; };
+		1716376719A6B7FF0070834F /* JRDGraphViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1716376519A6B7FF0070834F /* JRDGraphViewController.xib */; };
+		1716376919A6E9410070834F /* shapes.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716376819A6E9410070834F /* shapes.png */; };
+		1716376C19A6E9D60070834F /* JRDRandomPercentGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1716376B19A6E9D60070834F /* JRDRandomPercentGenerator.m */; };
+		1716377119A6EB830070834F /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716377019A6EB830070834F /* grid.png */; };
+		1716377319A6EF000070834F /* lined.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716377219A6EF000070834F /* lined.png */; };
+		1716377519A6EF6F0070834F /* texture.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716377419A6EF6F0070834F /* texture.png */; };
+		1716377719A6F1CE0070834F /* transparent-green.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716377619A6F1CE0070834F /* transparent-green.png */; };
+		1716377D19A711A50070834F /* red50.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716377C19A711A50070834F /* red50.png */; };
+		1716377F19A711DD0070834F /* darkred.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716377E19A711DD0070834F /* darkred.png */; };
+		1716378119A7369C0070834F /* greenOutline.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716378019A7369C0070834F /* greenOutline.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +73,37 @@
 		1716373319A45D890070834F /* DrawingBoardTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DrawingBoardTests-Info.plist"; sourceTree = "<group>"; };
 		1716373519A45D890070834F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1716373719A45D890070834F /* DrawingBoardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawingBoardTests.m; sourceTree = "<group>"; };
+		1716374119A45DF50070834F /* JRDMainWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDMainWindowController.h; sourceTree = "<group>"; };
+		1716374219A45DF50070834F /* JRDMainWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDMainWindowController.m; sourceTree = "<group>"; };
+		1716374319A45DF50070834F /* JRDMainWindowController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JRDMainWindowController.xib; sourceTree = "<group>"; };
+		1716374819A4621E0070834F /* red-35775_640.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "red-35775_640.png"; sourceTree = "<group>"; };
+		1716374A19A465500070834F /* line_graph_chart_graphic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line_graph_chart_graphic.png; sourceTree = "<group>"; };
+		1716374C19A4683A0070834F /* golden-ratio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "golden-ratio.png"; sourceTree = "<group>"; };
+		1716374E19A678AD0070834F /* JRDShapesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDShapesViewController.h; sourceTree = "<group>"; };
+		1716374F19A678AD0070834F /* JRDShapesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDShapesViewController.m; sourceTree = "<group>"; };
+		1716375019A678AD0070834F /* JRDShapesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JRDShapesViewController.xib; sourceTree = "<group>"; };
+		1716375419A67A640070834F /* JRDShapesView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDShapesView.h; sourceTree = "<group>"; };
+		1716375519A67A640070834F /* JRDShapesView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDShapesView.m; sourceTree = "<group>"; };
+		1716375819A67C2A0070834F /* JRDRatioViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDRatioViewController.h; sourceTree = "<group>"; };
+		1716375919A67C2A0070834F /* JRDRatioViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDRatioViewController.m; sourceTree = "<group>"; };
+		1716375A19A67C2A0070834F /* JRDRatioViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JRDRatioViewController.xib; sourceTree = "<group>"; };
+		1716375D19A67C540070834F /* JRDRatioView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDRatioView.h; sourceTree = "<group>"; };
+		1716375E19A67C540070834F /* JRDRatioView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDRatioView.m; sourceTree = "<group>"; };
+		1716376019A6B7D20070834F /* JRDGraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDGraphView.h; sourceTree = "<group>"; };
+		1716376119A6B7D20070834F /* JRDGraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDGraphView.m; sourceTree = "<group>"; };
+		1716376319A6B7FF0070834F /* JRDGraphViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDGraphViewController.h; sourceTree = "<group>"; };
+		1716376419A6B7FF0070834F /* JRDGraphViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDGraphViewController.m; sourceTree = "<group>"; };
+		1716376519A6B7FF0070834F /* JRDGraphViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JRDGraphViewController.xib; sourceTree = "<group>"; };
+		1716376819A6E9410070834F /* shapes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shapes.png; sourceTree = "<group>"; };
+		1716376A19A6E9D60070834F /* JRDRandomPercentGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRDRandomPercentGenerator.h; sourceTree = "<group>"; };
+		1716376B19A6E9D60070834F /* JRDRandomPercentGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRDRandomPercentGenerator.m; sourceTree = "<group>"; };
+		1716377019A6EB830070834F /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid.png; sourceTree = "<group>"; };
+		1716377219A6EF000070834F /* lined.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lined.png; sourceTree = "<group>"; };
+		1716377419A6EF6F0070834F /* texture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = texture.png; sourceTree = "<group>"; };
+		1716377619A6F1CE0070834F /* transparent-green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "transparent-green.png"; sourceTree = "<group>"; };
+		1716377C19A711A50070834F /* red50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red50.png; sourceTree = "<group>"; };
+		1716377E19A711DD0070834F /* darkred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = darkred.png; sourceTree = "<group>"; };
+		1716378019A7369C0070834F /* greenOutline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenOutline.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,9 +169,22 @@
 		1716371319A45D890070834F /* DrawingBoard */ = {
 			isa = PBXGroup;
 			children = (
-				1716371F19A45D890070834F /* JRDAppDelegate.h */,
-				1716372019A45D890070834F /* JRDAppDelegate.m */,
-				1716372219A45D890070834F /* MainMenu.xib */,
+				1716374A19A465500070834F /* line_graph_chart_graphic.png */,
+				1716374C19A4683A0070834F /* golden-ratio.png */,
+				1716377019A6EB830070834F /* grid.png */,
+				1716377619A6F1CE0070834F /* transparent-green.png */,
+				1716377419A6EF6F0070834F /* texture.png */,
+				1716378019A7369C0070834F /* greenOutline.png */,
+				1716377219A6EF000070834F /* lined.png */,
+				1716377E19A711DD0070834F /* darkred.png */,
+				1716377C19A711A50070834F /* red50.png */,
+				1716376819A6E9410070834F /* shapes.png */,
+				1716374819A4621E0070834F /* red-35775_640.png */,
+				1716374719A45ED40070834F /* Base */,
+				1716374619A45EC00070834F /* Window Controller */,
+				1716375319A678B20070834F /* View Controllers */,
+				1716375719A67A670070834F /* Views */,
+				1716376D19A6E9D90070834F /* Helpers */,
 				1716372519A45D890070834F /* Images.xcassets */,
 				1716371419A45D890070834F /* Supporting Files */,
 			);
@@ -152,6 +219,64 @@
 				1716373419A45D890070834F /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1716374619A45EC00070834F /* Window Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1716374119A45DF50070834F /* JRDMainWindowController.h */,
+				1716374219A45DF50070834F /* JRDMainWindowController.m */,
+				1716374319A45DF50070834F /* JRDMainWindowController.xib */,
+			);
+			name = "Window Controller";
+			sourceTree = "<group>";
+		};
+		1716374719A45ED40070834F /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				1716371F19A45D890070834F /* JRDAppDelegate.h */,
+				1716372019A45D890070834F /* JRDAppDelegate.m */,
+				1716372219A45D890070834F /* MainMenu.xib */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
+		1716375319A678B20070834F /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1716374E19A678AD0070834F /* JRDShapesViewController.h */,
+				1716374F19A678AD0070834F /* JRDShapesViewController.m */,
+				1716375019A678AD0070834F /* JRDShapesViewController.xib */,
+				1716375819A67C2A0070834F /* JRDRatioViewController.h */,
+				1716375919A67C2A0070834F /* JRDRatioViewController.m */,
+				1716375A19A67C2A0070834F /* JRDRatioViewController.xib */,
+				1716376319A6B7FF0070834F /* JRDGraphViewController.h */,
+				1716376419A6B7FF0070834F /* JRDGraphViewController.m */,
+				1716376519A6B7FF0070834F /* JRDGraphViewController.xib */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		1716375719A67A670070834F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1716375419A67A640070834F /* JRDShapesView.h */,
+				1716375519A67A640070834F /* JRDShapesView.m */,
+				1716375D19A67C540070834F /* JRDRatioView.h */,
+				1716375E19A67C540070834F /* JRDRatioView.m */,
+				1716376019A6B7D20070834F /* JRDGraphView.h */,
+				1716376119A6B7D20070834F /* JRDGraphView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		1716376D19A6E9D90070834F /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				1716376A19A6E9D60070834F /* JRDRandomPercentGenerator.h */,
+				1716376B19A6E9D60070834F /* JRDRandomPercentGenerator.m */,
+			);
+			name = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,10 +356,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1716374D19A4683A0070834F /* golden-ratio.png in Resources */,
+				1716377519A6EF6F0070834F /* texture.png in Resources */,
+				1716377319A6EF000070834F /* lined.png in Resources */,
+				1716375C19A67C2A0070834F /* JRDRatioViewController.xib in Resources */,
+				1716374919A4621E0070834F /* red-35775_640.png in Resources */,
+				1716376719A6B7FF0070834F /* JRDGraphViewController.xib in Resources */,
+				1716377119A6EB830070834F /* grid.png in Resources */,
+				1716377D19A711A50070834F /* red50.png in Resources */,
 				1716371819A45D890070834F /* InfoPlist.strings in Resources */,
+				1716377F19A711DD0070834F /* darkred.png in Resources */,
+				1716374519A45DF50070834F /* JRDMainWindowController.xib in Resources */,
 				1716372619A45D890070834F /* Images.xcassets in Resources */,
+				1716376919A6E9410070834F /* shapes.png in Resources */,
 				1716371E19A45D890070834F /* Credits.rtf in Resources */,
+				1716374B19A465500070834F /* line_graph_chart_graphic.png in Resources */,
 				1716372419A45D890070834F /* MainMenu.xib in Resources */,
+				1716378119A7369C0070834F /* greenOutline.png in Resources */,
+				1716375219A678AD0070834F /* JRDShapesViewController.xib in Resources */,
+				1716377719A6F1CE0070834F /* transparent-green.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,7 +394,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1716371A19A45D890070834F /* main.m in Sources */,
+				1716374419A45DF50070834F /* JRDMainWindowController.m in Sources */,
+				1716375619A67A640070834F /* JRDShapesView.m in Sources */,
+				1716376C19A6E9D60070834F /* JRDRandomPercentGenerator.m in Sources */,
+				1716375B19A67C2A0070834F /* JRDRatioViewController.m in Sources */,
 				1716372119A45D890070834F /* JRDAppDelegate.m in Sources */,
+				1716375119A678AD0070834F /* JRDShapesViewController.m in Sources */,
+				1716376219A6B7D20070834F /* JRDGraphView.m in Sources */,
+				1716375F19A67C540070834F /* JRDRatioView.m in Sources */,
+				1716376619A6B7FF0070834F /* JRDGraphViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
